@@ -1,0 +1,1 @@
+web: python project.py
